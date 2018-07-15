@@ -4,6 +4,7 @@
 运行：`imageserver -dir ./upload`
 
 ## 参数
+```
   -cache int
         缓存大小 (default 134217728)
   -dir string
@@ -14,3 +15,4 @@
         最大高度 (default 2048)
   -maxw int
         最大宽度 (default 2048
+```
